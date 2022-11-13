@@ -85,11 +85,11 @@
                     <div class="single-widget">
                         <h3>CONTACT US</h3>
 						 <h5 style="width:53%; float:left; text-align:center; color:#fff; padding:6px; background-color:#00a9eb; border-radius:3px;">BOYS CAMPUS - </h5><br><br>
-                        <p style="COLOR:#FFF;">Your address goes here, Street<br>City, Roadno 785 New York</p>
+                        <p style="COLOR:#FFF;">Mission Road, Rangamatia Railgate,<br>Malda - 732128</p>
                         						 <h5 style="width:53%; float:left; text-align:center; color:#fff; padding:6px; background-color:#00a9eb; border-radius:3px;">GIRLS CAMPUS - </h5><br><br>
-                        <p style="COLOR:#FFF;">Your address goes here, Street<br>City, Roadno 785 New York</p>
+                        <p style="COLOR:#FFF;">Mangalbari, Ghoshpara Bulbulchandi Road,Malda, 732142</p>
 												 <h5 style="width:54%; float:left; text-align:center; color:#fff; padding:6px; background-color:#00a9eb; border-radius:3px;">OFFICE ADDRESS - </h5><br><br>
-                        <p style="COLOR:#FFF;">Your address goes here, Street<br>City, Roadno 785 New York</p>
+                        <p style="COLOR:#FFF;">Mangalbari, Sadarghat,<br>Jorakalithan more, Malda 732142k</p>
                     </div>
                 </div>
 			</div>
@@ -106,7 +106,7 @@
 						<?php
 						printf(
 							esc_html__( 'Copyright %s.', 'twentytwentyone' ),
-							'<a href="' . esc_url( __( 'www.nbpschool.org', 'twentytwentyone' ) ) . '"> North Bengal Public School </a>© 2022. All Right Reserved'
+							'© 2022. <a href="' . esc_url( __( 'www.nbpschool.org', 'twentytwentyone' ) ) . '"> North Bengal Public School </a> All Right Reserved'
 						);
 						?>
 					</p>

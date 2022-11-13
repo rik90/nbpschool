@@ -94,8 +94,9 @@
     <div class="container">
         <div class="row">
          <div class="sliderrowarea">
-          <p>Early Bird Admissions Started! Join World’s #1 Leading Online School with 7500+ happy students!</p>
-       </div>
+         <marquee attribute_name = "attribute_value"....more attributes> <p>Early Bird Admissions Started! Join World’s #1 Leading Online School with 7500+ happy students!</p>
+       </marquee>
+	   </div>
         </div>
        </div>
 

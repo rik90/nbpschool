@@ -47,8 +47,8 @@ $header_class = $show_title ? 'site-title' : 'screen-reader-text';
 <div class="col-sm-10">
 	<div class="topcolorbar2">
 	<div class="topcolorbar">
-		<i class="fa fa-envelope"></i><p>info@gmail.com</p>
-		<p><i class="fa fa-phone" style="margin: 6px 12px 10px 9px;"></i> +91 000 111 1111 </p>  
+		<i class="fa fa-envelope"></i><p>info@nbpschool.org</p>
+		<p><i class="fa fa-phone" style="margin: 6px 12px 10px 9px;"></i> (+91)82500 16276 </p>  
 		
 		<div class="myright">
 		<div class="footer-social" style="">
