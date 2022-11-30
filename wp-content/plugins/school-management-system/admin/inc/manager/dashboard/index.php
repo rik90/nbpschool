@@ -1,7 +1,7 @@
 <?php
 defined( 'ABSPATH' ) || die();
 
-require_once WLSM_PLUGIN_DIR_PATH . 'includes/partials/pro_banner.php';
+//require_once WLSM_PLUGIN_DIR_PATH . 'includes/partials/pro_banner.php';
 
 require_once WLSM_PLUGIN_DIR_PATH . 'includes/helpers/WLSM_M_School.php';
 require_once WLSM_PLUGIN_DIR_PATH . 'includes/helpers/WLSM_M_Role.php';
